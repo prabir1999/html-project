@@ -34,10 +34,10 @@ section{
 
 }
 section h3{
-    font-size: 32px; font-weight: 1000; letter-spacing: 3px; color: rgb(231, 193, 193);
+    font-size: 32px; font-weight: 1000; letter-spacing: 3px; color:black;
 }
 section h1{
-    font-size:32px; font-weight: 1000; letter-spacing: 3px; color: rgb(231, 193, 193);
+    font-size:32px; font-weight: 1000; letter-spacing: 3px; color: darkblue;
 }
 
 .container{
